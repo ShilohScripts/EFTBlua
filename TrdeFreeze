@@ -348,7 +348,7 @@ end
 createToggleButton("Freeze Trade", "❄", 1)
 createToggleButton("Auto Accept", "✔", 2)
 createToggleButton("Cancel Trade", "✖", 3)
-createToggleButton("Add Brainrot", "🧠", 4)
+createToggleButton("Add Brainrot/Token", "🧠🪙", 4)
 
 local minimized = false
 local fullSize = baseSize
